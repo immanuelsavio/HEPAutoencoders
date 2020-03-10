@@ -8,6 +8,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/Skelpdar/HEPAutoencoders.svg)](https://github.com/Skelpdar/HEPAutoencoders/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Skelpdar/HEPAutoencoders.svg)](https://github.com/Skelpdar/HEPAutoencoders/pulls)
+[![Github Forks](https://img.shields.io/github/forks/Skelpdar/HEPAutoencoders.svg)](https://github.com/Skelpdar/HEPAutoencoders/network/members)
 
 </div>
 
