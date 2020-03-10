@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   HEPAutoencoders
-</h3>
+</h1>
 
 <div align="center">
   
